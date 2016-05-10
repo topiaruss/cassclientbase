@@ -1,0 +1,6 @@
+- service: app
+  command: true
+- service: app
+  type: push
+  image_name: topiaruss/cassclientbase
+  registry: https://index.docker.io/v1/

@@ -1,0 +1,2 @@
+jet encrypt ${HOME}/.docker/config.json dockercfg.encrypted
+

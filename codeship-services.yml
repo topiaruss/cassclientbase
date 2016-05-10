@@ -1,0 +1,8 @@
+app:
+  build:
+    image: topiaruss/cassclientbase
+    dockerfile_path: Dockerfile
+  cached: true
+  encrypted_dockercfg_path: dockercfg.encrypted
+
+
