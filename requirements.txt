@@ -1,7 +1,7 @@
 beautifulsoup4==4.4.1
 cassandra-driver==3.4.1
 devpi-client==2.6.2
-freezegun==0.3.6
+freezegun==0.3.7
 funcsigs==1.0.2
 futures==3.0.5
 mock==2.0
